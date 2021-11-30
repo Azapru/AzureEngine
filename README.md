@@ -18,7 +18,7 @@ Current latest version:  0.1b
 - Settings menu
 
 # Modding Guide
-soon
+https://github.com/Azapru/AzureEngine/blob/main/GUIDE.md
 
 # Download
 https://github.com/Azapru/AzureEngine/releases
