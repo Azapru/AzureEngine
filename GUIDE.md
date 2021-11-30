@@ -13,7 +13,6 @@ Download: https://www.audacityteam.org/
 
 ## Compiling
 That's really easy...
-[========]
 ![](https://raw.githubusercontent.com/Azapru/AzureEngine/main/assets/build.png)
 
 ## Charting Songs
@@ -25,7 +24,6 @@ That's really easy...
 5. Set notes speed (click on "calculate notes speed" button, enter bpm of song, convert bpm and then divide length of 1 beat by 4, that's your notes speed) (**!! If you got number with "numbers after dot" read "Fixing Song Offset"**)
 6.  Open normal FNF with chart you wanna have in Azure Engine
 7. Copy all sections to Azure Engine chart editor manually (the hardest part, can take really long, remember to playtest sometime to make sure you copied it correctly)
-[========]
 ![](https://raw.githubusercontent.com/Azapru/AzureEngine/main/assets/happy.png)
 (im working on better solution :|| )
 
@@ -42,13 +40,11 @@ That's really easy...
 
 ## Adding Characters/Backgrounds
 1. Clone any character/background
-[========]
 ![](https://raw.githubusercontent.com/Azapru/AzureEngine/main/assets/clone.png)
 2. Setup all character's/background frames
 3. (in event editor) Go to CHARACTERS and copy any chart (ctrl+c & ctrl+v)
 4. Set chart to chart you want with this character/background
 5. Set character/background visibility to this chart
-[========]
 ![](https://raw.githubusercontent.com/Azapru/AzureEngine/main/assets/vis.png)
 
 ## Adding Songs To Freeplay
