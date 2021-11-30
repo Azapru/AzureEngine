@@ -17,6 +17,9 @@ Current latest version:  0.1b
 - Better editor
 - Settings menu
 
+# FAQ
+- Q: Can I port other mods to this engine?
+A: ofc yes
 # Modding Guide
 https://github.com/Azapru/AzureEngine/blob/main/GUIDE.md
 
