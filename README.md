@@ -5,18 +5,18 @@
 # FNF Azure Engine
 simple FNF engine build on CTF2.5
 cuz Clickteam is much easier :)
-Current latest version:  0.1b
+Current latest version:  1.0.0
 
 # Features
-- Simple input system (currently ghost tapping)
+- Simple input system
 - Custom keybinds
 - 3 Example songs
 - In-game editor (it sucks)
 - Original FNF-like menus
+- Settings (middle scroll, ghost tapping, black underlay and more)
 
 # Features (coming soon)
 - Better editor
-- Settings menu
 
 # FAQ
 - Q: Can I port other mods to this engine?
