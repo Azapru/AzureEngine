@@ -5,7 +5,6 @@
 # FNF Azure Engine
 simple FNF engine build on CTF2.5
 cuz Clickteam is much easier :)
-Current latest version:  0.1b
 
 # Features
 - Simple input system (currently ghost tapping)
