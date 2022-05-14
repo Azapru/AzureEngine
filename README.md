@@ -1,3 +1,6 @@
+NOTE: THIS ENGINE IS CURRENTLY BEING RE-DONE FROM SCRATCH (REMASTER)
+THIS CODE OF THIS OLD VERSION IS TARRIBLE
+
 ![logo](https://raw.githubusercontent.com/Azapru/AzureEngine/main/assets/logo.png "logo")
   
 ![](https://img.shields.io/github/stars/azapru/azureengine.svg) ![](https://img.shields.io/github/release/azapru/azureengine.md.svg) ![](https://img.shields.io/github/issues/azapru/azureengine.svg) ![](https://img.shields.io/github/repo-size/azapru/azureengine.svg)
