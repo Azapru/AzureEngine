@@ -36,7 +36,7 @@ That's really easy...
 4, Click on effects > change tempo
 5. Insert there old/original bpm (from) and new bpm (to)
 6. Click OK
-7. Now export the song to mp4
+7. Now export the song to mp3
 
 ## Adding Characters/Backgrounds
 1. Clone any character/background
